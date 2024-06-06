@@ -1,3 +1,3 @@
 module github.com/kyosu-1/fosite-oidc
 
-go 1.22.1
+go 1.22.4
